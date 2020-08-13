@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning Project: Hello_World"
 date: 2020-08-13
-tags: [data science, machine learning, hello world]
+tags: [hello world]
 header:
   image: "/images/hmarktcolor.jpg"
 excerpt: "Data Science, Machine Learning, Hello world"
