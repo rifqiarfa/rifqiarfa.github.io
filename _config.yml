@@ -113,13 +113,13 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/rifqiarfa"
+      url: "https://github.com/rifqiarfa"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-       url: "https://linkedin.com/in/rifqi-arif-farhan"
+      url: "https://linkedin.com/in/rifqi-arif-farhan"
 
 # Site Footer
 footer:
