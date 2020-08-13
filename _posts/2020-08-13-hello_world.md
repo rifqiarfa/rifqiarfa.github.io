@@ -4,7 +4,7 @@ date: 2020-08-13
 tags: [hello world]
 header:
   image: "/images/hmarktcolor.jpg"
-excerpt: "Data Science, Machine Learning, Hello world"
+excerpt: "Hello world"
 mathjax: "true"
 ---
 # H1 Heading
