@@ -20,7 +20,7 @@ title                    : "Rifqi Farhan"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Rifqi Farhan"
-description              : "Mechanical Engineering and Machine Learning Portfolio"
+description              : "// Mechanical Engineer // Machine Learning and Industry 4.0 Enthusiast"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Rifqi Farhan"
   avatar           : "/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Mechanical Engineering and Machine Learning Portfolio"
+  bio              : "// Mechanical Engineer // Machine Learning and Industry 4.0 Enthusiast"
   location         : "Berlin, Germany"
   email            :
   links:
@@ -113,7 +113,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/rifqiarfa"
+      url: "https://github.com/nekoemperor"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
