@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Rifqi Farhan"
-  avatar           : "/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/avatar_1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "// Mechanical Engineer // Machine Learning and Industry 4.0 Enthusiast"
   location         : "Berlin, Germany"
   email            :
